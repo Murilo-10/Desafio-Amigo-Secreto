@@ -29,7 +29,6 @@ function adicionarAmigo() {
     listaAmigos.appendChild(novoItem);
 }
 
-// Função para embaralhar a lista sem auto-sorteio
 function gerarSorteioValido() {
     let valido = false;
 
